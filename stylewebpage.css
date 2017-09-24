@@ -1,0 +1,23 @@
+body {background-image: url("Images/background.jpg");}
+h1   {color: #0B5345;}
+h3   {color: #1B2631;}
+h4   {color: #1919E8;}
+h5   {color: #873600;}
+h2   {color: #8E44AD;}
+
+p    {color: red;}
+
+a:link, a:visited 
+	{ 
+	    background-color: #BB8FCE;
+	    color: white;    
+	    padding:15px 95px;
+	    text-align: center; 
+	    text-decoration: none;
+	    display: inline-block;
+	}
+
+a:hover, a:active 
+	{
+	    background-color: #73C6B6;
+	}
